@@ -25,7 +25,7 @@ The course covers:
 - **DL Frameworks:** TensorFlow/Keras, PyTorch  
 - **Deployment:** Streamlit Cloud, GCP, AWS, Azure  
 
-## 🚀 How to Use
+# How to Use
 
 1. **Clone the repo**
 git clone https://github.com/<your-username>/<repo>.git
